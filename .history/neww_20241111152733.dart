@@ -6,8 +6,4 @@ class one {
   sum_new() {
     2 + 2;
   }
-
-  sub() {
-    2 - 3;
-  }
 }
