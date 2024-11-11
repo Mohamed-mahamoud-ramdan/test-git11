@@ -11,6 +11,5 @@ class one {
     2 - 3;
   }
 
-  gitthreeeb() {}
   threecommitMater() {}
 }
